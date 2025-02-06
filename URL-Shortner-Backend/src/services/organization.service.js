@@ -1,4 +1,4 @@
-const ORGANIZATIONSModel = require("./../models/organizations.model")
+const ORGANIZATIONSModel = require("../models/organizations.model")
 
 const IsOrganizationPresentUsingOrgDomainService = async (organizationDomain)=>{
     try{
