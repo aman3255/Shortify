@@ -1,8 +1,8 @@
-# LinkShrink - URL Shortener
+# Shortify - URL Shortener
 
-LinkShrink is a scalable URL shortener built using **Express.js** and **MongoDB**. The project provides an efficient way to shorten URLs while also offering features like custom encoding, geo-tracking, rate limiting, user authentication, and more.
+Shortify is a scalable URL shortener built using **Express.js** and **MongoDB**. The project provides an efficient way to shorten URLs while also offering features like custom encoding, geo-tracking, rate limiting, user authentication, and more.
 
-[LinkShrink on GitHub](https://github.com/aman3255/LinkShrink)
+[Shortify on GitHub](https://github.com/aman3255/Shortify)
 
 ## Features
 
@@ -40,4 +40,4 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    Open a terminal and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/aman3255/LinkShrink.git
+   git clone https://github.com/aman3255/Shortify.git
